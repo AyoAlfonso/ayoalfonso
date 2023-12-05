@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+CTO at BojaleLabs where I lead a team of engineers and designers to build tech products and run experiments on the internet.
+Previous worked at Github, Hotels.ng, Union Bank of Nigeria
+
+Email me alfonsoayo at gmail  dot com : to start a conversation.

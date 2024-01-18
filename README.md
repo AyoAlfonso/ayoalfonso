@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Technical Lead at BojaleLabs where I lead a team of engineers and designers to build tech products and run experiments on the internet.
+Technical Lead at BojaleLabs where I lead a team of engineers and designers to build experimental ideas on the internet.
 Previous worked at Github, Hotels.ng, Union Bank of Nigeria
 
 Email me ayo@bojalelabs.com to start a conversation.

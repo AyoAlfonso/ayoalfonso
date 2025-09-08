@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Technical Lead at BojaleLabs where I lead a team of engineers and designers to build experimental ideas on the internet.
+CTO at Souk where I am building AI agents for parternships.
+
 Previous worked at Github, Hotels.ng, Union Bank of Nigeria
 
 Email me ayo@bojalelabs.com to start a conversation.

@@ -19,4 +19,4 @@ CTO at Souk where I am building AI agents for parternships.
 
 Previous worked at Github, Hotels.ng, Union Bank of Nigeria
 
-Email me ayo@bojalelabs.com to start a conversation.
+Email me ayo@joinsouk.com to start a conversation.

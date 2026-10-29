@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-CTO at Souk where I am building AI agents for parternships.
+CTO at Souk where I am building AI agents for partnerships.
 
-Previous worked at Github, Hotels.ng, Union Bank of Nigeria
+Previously worked at Github, Hotels.ng, Union Bank of Nigeria
 
 Email me ayo@joinsouk.com to start a conversation.
